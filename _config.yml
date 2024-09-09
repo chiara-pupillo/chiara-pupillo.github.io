@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Chiara Pupillo's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chiara Pupillo"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chiara-pupillo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Chiara Pupillo"
+  pronouns         : "she/her"  
+  bio              : "PhD Student in AI for neuropsychology"
+  location         : "Milan, Italy"
+  employer         : "Department of Computer Science, University of Pisa"
+  research center  : "HTLAB, Catholic University of Sacred Heart of Milan"
+  email            : "chiara.pupillo@phd.unipi.it" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
