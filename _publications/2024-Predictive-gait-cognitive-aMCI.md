@@ -1,6 +1,7 @@
 ---
 title: "Predictive power of gait and gait-related cognitive measures in amnestic mild cognitive impairment: a machine learning analysis"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-Predictive-gait-cognitive-aMCI
 excerpt: 'Introduction: Gait disorders and gait-related cognitive tests were recently linked to future Alzheimer’s Disease (AD) dementia diagnosis in amnestic Mild Cognitive Impairment (aMCI). This study aimed to evaluate the predictive power of gait disorders and gait-related neuropsychological performances for future AD diagnosis in aMCI through machine learning (ML).
 Methods: A sample of 253 aMCI (stable, converter) individuals were included. We explored the predictive accuracy of four predictors (gait profile plus MMSE, DSST, and TMT-B) previously identified as critical for the conversion from aMCI to AD within a 36-month follow-up. Supervised ML algorithms (Support Vector Machine [SVM], Logistic Regression, and k-Nearest Neighbors) were trained on 70% of the dataset, and feature importance was evaluated for the best algorithm.
