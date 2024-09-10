@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I'm Chiara Pupillo, a PhD Student in Artificial Intelligence for Society of University of Pisa. 
+I'm Chiara Pupillo, a PhD Student in Artificial Intelligence for Society of University of Pisa, Italy. 
+The research center is at the HTLAB, Catholic University of Sacred Heart in Milan, Italy.
+
