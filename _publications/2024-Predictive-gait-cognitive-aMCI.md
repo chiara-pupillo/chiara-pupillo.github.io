@@ -16,6 +16,6 @@ Methods: A sample of 253 aMCI (stable, converter) individuals were included. We 
 Results: The SVM algorithm achieved the best performance. The optimized training set performance achieved an accuracy of 0.67 (sensitivity = 0.72; specificity = 0.60), improving to 0.70 on the test set (sensitivity = 0.79; specificity = 0.52). Feature importance revealed MMSE as the most important predictor in both training and testing, while gait type was important in the testing phase.
 Discussion: We created a predictive ML model that is capable of identifying aMCI at high risk of AD dementia within 36 months. Our ML model could be used to quickly identify individuals at higher risk of AD, facilitating secondary prevention (e.g., cognitive and/or physical training), and serving as screening for more expansive and invasive tests. Lastly, our results point toward theoretically and practically sound evidence of mind and body interaction in AD.'
 
-[Download paper here](https://)
+[Download paper here](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1328713/full)
 
 Recommended citation: Tuena, C., Pupillo, C., Stramba-Badiale, C., Stramba-Badiale, M., & Riva, G. (2024). Predictive power of gait and gait-related cognitive measures in amnestic mild cognitive impairment: a machine learning analysis. Frontiers in human neuroscience, 17, 1328713. https://doi.org/10.3389/fnhum.2023.1328713.
