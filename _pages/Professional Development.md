@@ -25,7 +25,9 @@ author_profile: true
 - [**Humane Intelligence. Trasformare l’Intelligenza Artificiale in una Tecnologia Positiva**](https://app.myopenbadge.com/receive/FGWujLb-0e643e4e284095075def3c3ebe5eb3a8-u5yxt38PNE7-31716830907/WGyaYXQHdkUi-43cf9a52926e0c9b4f1fbb6e051568fd-FmLM4giDl3-7/public)
 - **Boolean - Data Week 2023** ![Boolean - Data Week 2023](../professional_development/Boolean_dataweek23.png)
 
-
-
+### 🧑‍🏫 Teaching and Laboratory Activities
+#### Co-leading laboratory activities during the congress “La Teologia alla prova dell’Intelligenza Artificiale”  
+**Institution**: Facoltà Teologica di Torino
+**Period**: 19/04/2024
 
 
