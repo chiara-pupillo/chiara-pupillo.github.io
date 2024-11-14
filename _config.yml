@@ -13,7 +13,7 @@ repository               : "chiara-pupillo/chiara-pupillo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Fototessera di Chiara Pupillo.png"
+  avatar           : "Fototessera di Chiara Pupillo.jpg"
   name             : "Chiara Pupillo"
   pronouns         : "she/her"  
   bio              : "PhD Student in AI for neuropsychology"
