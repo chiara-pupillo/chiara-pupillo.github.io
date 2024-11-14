@@ -19,6 +19,7 @@ author_profile: true
 ### 🏆 Open Badges
 - [![Fastweb Digital Academy - Intelligenza Artificiale e lavoro: impatti, sfide e opportunità](../professional_development/FA_Intelligenza_Artificiale_e_lavoro_impatti,_sfide_e_opportunit%C3%A0.png)]
 - [![Fastweb Digital Academy - Prompt engineering: l’arte di interrogare i chatbot](master/professional_development/FA_Prompt_engineering_l’arte_di_interrogare_i_chatbot.png)]
+- ![Fastweb Digital Academy - Intelligenza Artificiale e lavoro: impatti, sfide e opportunità](../images/FA_Intelligenza_Artificiale_e_lavoro_impatti,_sfide_e_opportunit%C3%A0.png)
 
 
 
