@@ -8,7 +8,7 @@ author_profile: true
 ### 📅 Conferences
 2024
 - **Embrione AI** - Niguarda, Milan, Italy  
-  *Role*: Presenter  
+  *Role*: Speaker  
   *Presentation*: "Dietro le quinte della ricerca: l'impatto dell'Explainable Artificial Intelligence sulla comunicazione medico-paziente"
 - **27th Annual CyberPsychology, CyberTherapy & Social Networking Conference (CYPSY27)** - Arizona, USA (Remote)  
   *Role*: Presenter  
