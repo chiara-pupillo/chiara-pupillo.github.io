@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Hi there!"
+title: "👋🏼 Hi there, I’m Chiara Pupillo!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-👋🏼 Hi there, I’m Chiara Pupillo!
-
 I'm a doctor in the Psychology of Wellbeing.
 👨🏻‍💻 I'm doing a hybrid national Ph.D.: Ph.D. in Artificial Intelligence for Society (University of Pisa) applied to psychotechnology. Specifically, my work focuses on the predictive analysis of psychological markers of cognitive impairment in the elderly through VR assessments. 
 
