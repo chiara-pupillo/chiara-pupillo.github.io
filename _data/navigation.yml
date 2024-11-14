@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-- title: "Professional Development & Contributions"
-  url: /professional_development/
+  - title: "Professional Development & Contributions"
+    url: /professional_development/
 
   # - title: "Talks"
   #   url: /talks/  
