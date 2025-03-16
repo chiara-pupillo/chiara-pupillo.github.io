@@ -13,10 +13,10 @@ repository               : "chiara-pupillo/chiara-pupillo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Fototessera di Chiara Pupillo.jpg"
+  avatar           : "CP Profile.jpg"
   name             : "Chiara Pupillo"
   pronouns         : "she/her"  
-  bio              : "PhD Student in AI for neuropsychology"
+  bio              : "PhD Student in AI applied to psychotechnologies"
   location         : "Milan, Italy"
   employer         : "University of Pisa & HTLAB"
   email            : "chiara.pupillo@phd.unipi.it" 
